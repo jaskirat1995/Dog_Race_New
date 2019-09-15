@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog_Race_New", "Dog_Race_New\Dog_Race_New.csproj", "{9C81BA36-9C52-49E7-B93E-ED06FAE37620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog_Race_NewTests", "Dog_Race_NewTests\Dog_Race_NewTests.csproj", "{D39BD2A9-8DBC-4972-8DA6-404940FB3E55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9C81BA36-9C52-49E7-B93E-ED06FAE37620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C81BA36-9C52-49E7-B93E-ED06FAE37620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C81BA36-9C52-49E7-B93E-ED06FAE37620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39BD2A9-8DBC-4972-8DA6-404940FB3E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39BD2A9-8DBC-4972-8DA6-404940FB3E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39BD2A9-8DBC-4972-8DA6-404940FB3E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39BD2A9-8DBC-4972-8DA6-404940FB3E55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
