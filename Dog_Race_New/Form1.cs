@@ -246,7 +246,7 @@ namespace Dog_Race_New
         private void btnRun_Click(object sender, EventArgs e)
         {
             // this is the button that is used to start the game after cicking on the start game i sound of fire will generate to trigger the game 
-            System.Media.SoundPlayer player = new System.Media.SoundPlayer("fire.wav");
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(Dog_Race_New.Properties.Resources.fire);
             player.Play();
 
             //calling the method of the dog race to run the dog
